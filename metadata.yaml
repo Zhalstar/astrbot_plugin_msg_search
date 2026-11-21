@@ -1,0 +1,9 @@
+name: astrbot_plugin_msg_search
+display_name: 搜索消息
+desc: 搜消息插件，比如搜索 谁at我
+help: 略
+version: v1.0.2
+author: 饰乐
+repo: https://github.com/Zhalstar/astrbot_plugin_msg_search
+support_platforms:
+  - aiocqhttp
